@@ -11,7 +11,7 @@ public class App {
 		Map map = new Map();
 		map.createMap(10, 80);
 
-		Przystanek A = new Przystanek("A", 1, 16, 4);
+		Przystanek A = new Przystanek("A", 3, 16, 4);
 		Przystanek B = new Przystanek("B", 6, 50, 2);
 		Przystanek C = new Przystanek("C", 9, 65, 1);
 		Przystanek D = new Przystanek("D", 8, 2, 3);
